@@ -42,11 +42,13 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="169" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJrdjdsZW9meml2cjh2b3FwY2FwdTZyamR6MjJ1NmVkNmpjbmVyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"  />
+<div align="center">
+  <img height="181" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlvajEzbnp3Y25rdm9iaWh0cWc5dXliYjNqMDRtOXZkYncycW0yMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MsdVVLSrPZYli/giphy.gif"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ramos-GS//Ramos-GS//output/github-contribution-grid-snake-dark.svg">
